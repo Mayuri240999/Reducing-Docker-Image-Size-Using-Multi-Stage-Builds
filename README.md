@@ -22,3 +22,10 @@ docker images
 ```
 docker run -it multistage-build bash
 ```
+
+
+
+
+
+![Screenshot 2024-11-28 192501](https://github.com/user-attachments/assets/fbbc0045-5be2-467a-8def-b29b11dc9abc)
+
